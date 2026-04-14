@@ -1,0 +1,302 @@
+[
+  {
+    "sampleName": "ARC1001",
+    "sampleId": "ARC1001",
+    "scheme": "abaumannii_2",
+    "st": 1,
+    "genes": {
+      "Pox_oxa23": 1,
+      "Pox_kpc": 1,
+      "Pox_ges": 1,
+      "Pox_imp": 1,
+      "Pox_vim": 1,
+      "Pox_ndm": 1,
+      "Pox_spm": 1
+    }
+  },
+  {
+    "sampleName": "ARC1002",
+    "sampleId": "ARC1002",
+    "scheme": "abaumannii_3",
+    "st": 2,
+    "genes": {
+      "Pox_oxa23": 2,
+      "Pox_kpc": 2,
+      "Pox_ges": 2,
+      "Pox_imp": 2,
+      "Pox_vim": 2,
+      "Pox_ndm": 2,
+      "Pox_spm": 2
+    }
+  },
+  {
+    "sampleName": "ARC1003",
+    "sampleId": "ARC1003",
+    "scheme": "abaumannii_2",
+    "st": 3,
+    "genes": {
+      "Pox_oxa23": 1,
+      "Pox_kpc": 1,
+      "Pox_ges": 1,
+      "Pox_imp": 1,
+      "Pox_vim": 1,
+      "Pox_ndm": 1,
+      "Pox_spm": 1
+    }
+  },
+  {
+    "sampleName": "ARC1004",
+    "sampleId": "ARC1004",
+    "scheme": "abaumannii_3",
+    "st": 101,
+    "genes": {
+      "Pox_oxa23": 2,
+      "Pox_kpc": 2,
+      "Pox_ges": 2,
+      "Pox_imp": 2,
+      "Pox_vim": 2,
+      "Pox_ndm": 2,
+      "Pox_spm": 2
+    }
+  },
+  {
+    "sampleName": "ARC1005",
+    "sampleId": "ARC1005",
+    "scheme": "abaumannii_2",
+    "st": 1,
+    "genes": {
+      "Pox_oxa23": 1,
+      "Pox_kpc": 1,
+      "Pox_ges": 1,
+      "Pox_imp": 1,
+      "Pox_vim": 1,
+      "Pox_ndm": 1,
+      "Pox_spm": 1
+    }
+  },
+  {
+    "sampleName": "ARC1006",
+    "sampleId": "ARC1006",
+    "scheme": "abaumannii_3",
+    "st": 2,
+    "genes": {
+      "Pox_oxa23": 2,
+      "Pox_kpc": 2,
+      "Pox_ges": 2,
+      "Pox_imp": 2,
+      "Pox_vim": 2,
+      "Pox_ndm": 2,
+      "Pox_spm": 2
+    }
+  },
+  {
+    "sampleName": "ARC1007",
+    "sampleId": "ARC1007",
+    "scheme": "abaumannii_2",
+    "st": 3,
+    "genes": {
+      "Pox_oxa23": 1,
+      "Pox_kpc": 1,
+      "Pox_ges": 1,
+      "Pox_imp": 1,
+      "Pox_vim": 1,
+      "Pox_ndm": 1,
+      "Pox_spm": 1
+    }
+  },
+  {
+    "sampleName": "ARC1008",
+    "sampleId": "ARC1008",
+    "scheme": "abaumannii_3",
+    "st": 101,
+    "genes": {
+      "Pox_oxa23": 2,
+      "Pox_kpc": 2,
+      "Pox_ges": 2,
+      "Pox_imp": 2,
+      "Pox_vim": 2,
+      "Pox_ndm": 2,
+      "Pox_spm": 2
+    }
+  },
+  {
+    "sampleName": "ARC1009",
+    "sampleId": "ARC1009",
+    "scheme": "abaumannii_2",
+    "st": 1,
+    "genes": {
+      "Pox_oxa23": 1,
+      "Pox_kpc": 1,
+      "Pox_ges": 1,
+      "Pox_imp": 1,
+      "Pox_vim": 1,
+      "Pox_ndm": 1,
+      "Pox_spm": 1
+    }
+  },
+  {
+    "sampleName": "ARC1010",
+    "sampleId": "ARC1010",
+    "scheme": "abaumannii_3",
+    "st": 2,
+    "genes": {
+      "Pox_oxa23": 2,
+      "Pox_kpc": 2,
+      "Pox_ges": 2,
+      "Pox_imp": 2,
+      "Pox_vim": 2,
+      "Pox_ndm": 2,
+      "Pox_spm": 2
+    }
+  },
+  {
+    "sampleName": "ARC1011",
+    "sampleId": "ARC1011",
+    "scheme": "abaumannii_2",
+    "st": 3,
+    "genes": {
+      "Pox_oxa23": 1,
+      "Pox_kpc": 1,
+      "Pox_ges": 1,
+      "Pox_imp": 1,
+      "Pox_vim": 1,
+      "Pox_ndm": 1,
+      "Pox_spm": 1
+    }
+  },
+  {
+    "sampleName": "ARC1012",
+    "sampleId": "ARC1012",
+    "scheme": "abaumannii_3",
+    "st": 101,
+    "genes": {
+      "Pox_oxa23": 2,
+      "Pox_kpc": 2,
+      "Pox_ges": 2,
+      "Pox_imp": 2,
+      "Pox_vim": 2,
+      "Pox_ndm": 2,
+      "Pox_spm": 2
+    }
+  },
+  {
+    "sampleName": "ARC1013",
+    "sampleId": "ARC1013",
+    "scheme": "abaumannii_2",
+    "st": 1,
+    "genes": {
+      "Pox_oxa23": 1,
+      "Pox_kpc": 1,
+      "Pox_ges": 1,
+      "Pox_imp": 1,
+      "Pox_vim": 1,
+      "Pox_ndm": 1,
+      "Pox_spm": 1
+    }
+  },
+  {
+    "sampleName": "ARC1014",
+    "sampleId": "ARC1014",
+    "scheme": "abaumannii_3",
+    "st": 2,
+    "genes": {
+      "Pox_oxa23": 2,
+      "Pox_kpc": 2,
+      "Pox_ges": 2,
+      "Pox_imp": 2,
+      "Pox_vim": 2,
+      "Pox_ndm": 2,
+      "Pox_spm": 2
+    }
+  },
+  {
+    "sampleName": "ARC1015",
+    "sampleId": "ARC1015",
+    "scheme": "abaumannii_2",
+    "st": 3,
+    "genes": {
+      "Pox_oxa23": 1,
+      "Pox_kpc": 1,
+      "Pox_ges": 1,
+      "Pox_imp": 1,
+      "Pox_vim": 1,
+      "Pox_ndm": 1,
+      "Pox_spm": 1
+    }
+  },
+  {
+    "sampleName": "ARC1016",
+    "sampleId": "ARC1016",
+    "scheme": "abaumannii_3",
+    "st": 101,
+    "genes": {
+      "Pox_oxa23": 2,
+      "Pox_kpc": 2,
+      "Pox_ges": 2,
+      "Pox_imp": 2,
+      "Pox_vim": 2,
+      "Pox_ndm": 2,
+      "Pox_spm": 2
+    }
+  },
+  {
+    "sampleName": "ARC1017",
+    "sampleId": "ARC1017",
+    "scheme": "abaumannii_2",
+    "st": 1,
+    "genes": {
+      "Pox_oxa23": 1,
+      "Pox_kpc": 1,
+      "Pox_ges": 1,
+      "Pox_imp": 1,
+      "Pox_vim": 1,
+      "Pox_ndm": 1,
+      "Pox_spm": 1
+    }
+  },
+  {
+    "sampleName": "ARC1018",
+    "sampleId": "ARC1018",
+    "scheme": "abaumannii_3",
+    "st": 2,
+    "genes": {
+      "Pox_oxa23": 2,
+      "Pox_kpc": 2,
+      "Pox_ges": 2,
+      "Pox_imp": 2,
+      "Pox_vim": 2,
+      "Pox_ndm": 2,
+      "Pox_spm": 2
+    }
+  },
+  {
+    "sampleName": "ARC1019",
+    "sampleId": "ARC1019",
+    "scheme": "abaumannii_2",
+    "st": 3,
+    "genes": {
+      "Pox_oxa23": 1,
+      "Pox_kpc": 1,
+      "Pox_ges": 1,
+      "Pox_imp": 1,
+      "Pox_vim": 1,
+      "Pox_ndm": 1,
+      "Pox_spm": 1
+    }
+  },
+  {
+    "sampleName": "ARC1020",
+    "sampleId": "ARC1020",
+    "scheme": "abaumannii_3",
+    "st": 101,
+    "genes": {
+      "Pox_oxa23": 2,
+      "Pox_kpc": 2,
+      "Pox_ges": 2,
+      "Pox_imp": 2,
+      "Pox_vim": 2,
+      "Pox_ndm": 2,
+      "Pox_spm": 2
+    }
+  }
+]

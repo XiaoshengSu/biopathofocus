@@ -1,0 +1,22 @@
+[
+  { "sampleId": "JK001", "kType": "KL55", "oType": "O2#1", "hType": "H1" },
+  { "sampleId": "JK002", "kType": "KL39", "oType": "O4", "hType": "H2" },
+  { "sampleId": "JK003", "kType": "KL28", "oType": "O1#2", "hType": "H3" },
+  { "sampleId": "JK004", "kType": "KL21", "oType": "O8", "hType": "H1" },
+  { "sampleId": "JK005", "kType": "KL108", "oType": "O2#1", "hType": "H2" },
+  { "sampleId": "JK006", "kType": "KL55", "oType": "O4", "hType": "H3" },
+  { "sampleId": "JK007", "kType": "KL39", "oType": "O1#2", "hType": "H1" },
+  { "sampleId": "JK008", "kType": "KL28", "oType": "O8", "hType": "H2" },
+  { "sampleId": "JK009", "kType": "KL21", "oType": "O2#1", "hType": "H3" },
+  { "sampleId": "JK010", "kType": "KL108", "oType": "O4", "hType": "H1" },
+  { "sampleId": "JK011", "kType": "KL55", "oType": "O1#2", "hType": "H2" },
+  { "sampleId": "JK012", "kType": "KL39", "oType": "O8", "hType": "H3" },
+  { "sampleId": "JK013", "kType": "KL28", "oType": "O2#1", "hType": "H1" },
+  { "sampleId": "JK014", "kType": "KL21", "oType": "O4", "hType": "H2" },
+  { "sampleId": "JK015", "kType": "KL108", "oType": "O1#2", "hType": "H3" },
+  { "sampleId": "JK016", "kType": "KL55", "oType": "O8", "hType": "H1" },
+  { "sampleId": "JK017", "kType": "KL39", "oType": "O2#1", "hType": "H2" },
+  { "sampleId": "JK018", "kType": "KL28", "oType": "O4", "hType": "H3" },
+  { "sampleId": "JK019", "kType": "KL21", "oType": "O1#2", "hType": "H1" },
+  { "sampleId": "JK020", "kType": "KL108", "oType": "O8", "hType": "H2" }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "geneId": "1",
+    "geneName": "aph(3')-Ia",
+    "category": "Aminoglycoside",
+    "resistanceRate": 0.09,
+    "samples": {
+      "JH2301": 0, "JH2302": 0, "JH2303": 0, "JH2304": 0, "JH2305": 0,
+      "JH2306": 0, "JH2307": 0, "JH2308": 0, "JH2309": 0, "JH2310": 0,
+      "JH2311": 1, "JH2312": 0, "JH2313": 0, "JH2314": 0, "JH2315": 0
+    }
+  },
+  {
+    "geneId": "2",
+    "geneName": "aph(3')-VIa",
+    "category": "Aminoglycoside",
+    "resistanceRate": 0.55,
+    "samples": {
+      "JH2301": 1, "JH2302": 0, "JH2303": 1, "JH2304": 0, "JH2305": 1,
+      "JH2306": 0, "JH2307": 1, "JH2308": 0, "JH2309": 1, "JH2310": 0,
+      "JH2311": 1, "JH2312": 0, "JH2313": 1, "JH2314": 0, "JH2315": 1
+    }
+  },
+  {
+    "geneId": "3",
+    "geneName": "blaCTX-M-55",
+    "category": "ESBL",
+    "resistanceRate": 0.27,
+    "samples": {
+      "JH2301": 1, "JH2302": 0, "JH2303": 0, "JH2304": 0, "JH2305": 1,
+      "JH2306": 0, "JH2307": 0, "JH2308": 0, "JH2309": 1, "JH2310": 0,
+      "JH2311": 0, "JH2312": 0, "JH2313": 0, "JH2314": 0, "JH2315": 1
+    }
+  },
+  {
+    "geneId": "4",
+    "geneName": "blaNDM-1",
+    "category": "Carbapenemase",
+    "resistanceRate": 0.18,
+    "samples": {
+      "JH2301": 1, "JH2302": 0, "JH2303": 0, "JH2304": 0, "JH2305": 0,
+      "JH2306": 0, "JH2307": 1, "JH2308": 0, "JH2309": 0, "JH2310": 0,
+      "JH2311": 0, "JH2312": 0, "JH2313": 1, "JH2314": 0, "JH2315": 0
+    }
+  },
+  {
+    "geneId": "5",
+    "geneName": "blaNDM-5",
+    "category": "Carbapenemase",
+    "resistanceRate": 0.09,
+    "samples": {
+      "JH2301": 0, "JH2302": 0, "JH2303": 0, "JH2304": 0, "JH2305": 0,
+      "JH2306": 0, "JH2307": 0, "JH2308": 0, "JH2309": 0, "JH2310": 0,
+      "JH2311": 1, "JH2312": 0, "JH2313": 0, "JH2314": 0, "JH2315": 0
+    }
+  },
+  {
+    "geneId": "6",
+    "geneName": "blaOXA-1",
+    "category": "Beta-lactamase",
+    "resistanceRate": 0.36,
+    "samples": {
+      "JH2301": 1, "JH2302": 0, "JH2303": 0, "JH2304": 1, "JH2305": 0,
+      "JH2306": 0, "JH2307": 1, "JH2308": 0, "JH2309": 0, "JH2310": 1,
+      "JH2311": 0, "JH2312": 0, "JH2313": 1, "JH2314": 0, "JH2315": 0
+    }
+  },
+  {
+    "geneId": "7",
+    "geneName": "blaTEM-1B",
+    "category": "Beta-lactamase",
+    "resistanceRate": 0.82,
+    "samples": {
+      "JH2301": 1, "JH2302": 1, "JH2303": 0, "JH2304": 1, "JH2305": 1,
+      "JH2306": 0, "JH2307": 1, "JH2308": 1, "JH2309": 0, "JH2310": 1,
+      "JH2311": 1, "JH2312": 0, "JH2313": 1, "JH2314": 1, "JH2315": 0
+    }
+  },
+  {
+    "geneId": "8",
+    "geneName": "dfrA1",
+    "category": "Trimethoprim",
+    "resistanceRate": 0.55,
+    "samples": {
+      "JH2301": 1, "JH2302": 0, "JH2303": 1, "JH2304": 0, "JH2305": 1,
+      "JH2306": 0, "JH2307": 1, "JH2308": 0, "JH2309": 1, "JH2310": 0,
+      "JH2311": 1, "JH2312": 0, "JH2313": 1, "JH2314": 0, "JH2315": 1
+    }
+  },
+  {
+    "geneId": "9",
+    "geneName": "catA1",
+    "category": "Phenicol",
+    "resistanceRate": 0.18,
+    "samples": {
+      "JH2301": 1, "JH2302": 0, "JH2303": 0, "JH2304": 0, "JH2305": 0,
+      "JH2306": 0, "JH2307": 1, "JH2308": 0, "JH2309": 0, "JH2310": 0,
+      "JH2311": 0, "JH2312": 0, "JH2313": 1, "JH2314": 0, "JH2315": 0
+    }
+  },
+  {
+    "geneId": "10",
+    "geneName": "sul1",
+    "category": "Sulfonamide",
+    "resistanceRate": 0.45,
+    "samples": {
+      "JH2301": 1, "JH2302": 0, "JH2303": 1, "JH2304": 0, "JH2305": 0,
+      "JH2306": 1, "JH2307": 0, "JH2308": 1, "JH2309": 0, "JH2310": 0,
+      "JH2311": 1, "JH2312": 0, "JH2313": 0, "JH2314": 1, "JH2315": 0
+    }
+  },
+  {
+    "geneId": "11",
+    "geneName": "tet(A)",
+    "category": "Tetracycline",
+    "resistanceRate": 0.30,
+    "samples": {
+      "JH2301": 0, "JH2302": 1, "JH2303": 0, "JH2304": 0, "JH2305": 1,
+      "JH2306": 0, "JH2307": 0, "JH2308": 1, "JH2309": 0, "JH2310": 0,
+      "JH2311": 0, "JH2312": 1, "JH2313": 0, "JH2314": 0, "JH2315": 1
+    }
+  },
+  {
+    "geneId": "12",
+    "geneName": "aac(6')-Ib",
+    "category": "Aminoglycoside",
+    "resistanceRate": 0.64,
+    "samples": {
+      "JH2301": 1, "JH2302": 1, "JH2303": 0, "JH2304": 1, "JH2305": 0,
+      "JH2306": 1, "JH2307": 1, "JH2308": 0, "JH2309": 1, "JH2310": 0,
+      "JH2311": 1, "JH2312": 1, "JH2313": 0, "JH2314": 1, "JH2315": 0
+    }
+  },
+  {
+    "geneId": "13",
+    "geneName": "blaCTX-M-15",
+    "category": "ESBL",
+    "resistanceRate": 0.45,
+    "samples": {
+      "JH2301": 1, "JH2302": 0, "JH2303": 1, "JH2304": 0, "JH2305": 0,
+      "JH2306": 1, "JH2307": 0, "JH2308": 0, "JH2309": 1, "JH2310": 0,
+      "JH2311": 0, "JH2312": 1, "JH2313": 0, "JH2314": 0, "JH2315": 1
+    }
+  },
+  {
+    "geneId": "14",
+    "geneName": "blaKPC-2",
+    "category": "Carbapenemase",
+    "resistanceRate": 0.12,
+    "samples": {
+      "JH2301": 0, "JH2302": 0, "JH2303": 1, "JH2304": 0, "JH2305": 0,
+      "JH2306": 0, "JH2307": 0, "JH2308": 0, "JH2309": 1, "JH2310": 0,
+      "JH2311": 0, "JH2312": 0, "JH2313": 0, "JH2314": 0, "JH2315": 0
+    }
+  },
+  {
+    "geneId": "15",
+    "geneName": "qnrS1",
+    "category": "Fluoroquinolone",
+    "resistanceRate": 0.22,
+    "samples": {
+      "JH2301": 0, "JH2302": 0, "JH2303": 0, "JH2304": 1, "JH2305": 0,
+      "JH2306": 0, "JH2307": 0, "JH2308": 0, "JH2309": 0, "JH2310": 1,
+      "JH2311": 0, "JH2312": 0, "JH2313": 0, "JH2314": 1, "JH2315": 0
+    }
+  }
+]

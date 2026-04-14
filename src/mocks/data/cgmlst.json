@@ -1,0 +1,227 @@
+[
+  {
+    "sampleId": "test_cgMLST_1",
+    "alleles": {
+      "locus_1": 1,
+      "locus_2": 2,
+      "locus_3": 3,
+      "locus_4": 4,
+      "locus_5": 5,
+      "locus_6": 6,
+      "locus_7": 7,
+      "locus_8": 8,
+      "locus_9": 9,
+      "locus_10": 10
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_2",
+    "alleles": {
+      "locus_1": 2,
+      "locus_2": 3,
+      "locus_3": 4,
+      "locus_4": 5,
+      "locus_5": 6,
+      "locus_6": 7,
+      "locus_7": 8,
+      "locus_8": 9,
+      "locus_9": 10,
+      "locus_10": 11
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_3",
+    "alleles": {
+      "locus_1": 3,
+      "locus_2": 4,
+      "locus_3": 5,
+      "locus_4": 6,
+      "locus_5": 7,
+      "locus_6": 8,
+      "locus_7": 9,
+      "locus_8": 10,
+      "locus_9": 11,
+      "locus_10": 12
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_4",
+    "alleles": {
+      "locus_1": 4,
+      "locus_2": 5,
+      "locus_3": 6,
+      "locus_4": 7,
+      "locus_5": 8,
+      "locus_6": 9,
+      "locus_7": 10,
+      "locus_8": 11,
+      "locus_9": 12,
+      "locus_10": 1
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_5",
+    "alleles": {
+      "locus_1": 5,
+      "locus_2": 6,
+      "locus_3": 7,
+      "locus_4": 8,
+      "locus_5": 9,
+      "locus_6": 10,
+      "locus_7": 11,
+      "locus_8": 12,
+      "locus_9": 1,
+      "locus_10": 2
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_6",
+    "alleles": {
+      "locus_1": 6,
+      "locus_2": 7,
+      "locus_3": 8,
+      "locus_4": 9,
+      "locus_5": 10,
+      "locus_6": 11,
+      "locus_7": 12,
+      "locus_8": 1,
+      "locus_9": 2,
+      "locus_10": 3
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_7",
+    "alleles": {
+      "locus_1": 7,
+      "locus_2": 8,
+      "locus_3": 9,
+      "locus_4": 10,
+      "locus_5": 11,
+      "locus_6": 12,
+      "locus_7": 1,
+      "locus_8": 2,
+      "locus_9": 3,
+      "locus_10": 4
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_8",
+    "alleles": {
+      "locus_1": 8,
+      "locus_2": 9,
+      "locus_3": 10,
+      "locus_4": 11,
+      "locus_5": 12,
+      "locus_6": 1,
+      "locus_7": 2,
+      "locus_8": 3,
+      "locus_9": 4,
+      "locus_10": 5
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_9",
+    "alleles": {
+      "locus_1": 9,
+      "locus_2": 10,
+      "locus_3": 11,
+      "locus_4": 12,
+      "locus_5": 1,
+      "locus_6": 2,
+      "locus_7": 3,
+      "locus_8": 4,
+      "locus_9": 5,
+      "locus_10": 6
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_10",
+    "alleles": {
+      "locus_1": 10,
+      "locus_2": 11,
+      "locus_3": 12,
+      "locus_4": 1,
+      "locus_5": 2,
+      "locus_6": 3,
+      "locus_7": 4,
+      "locus_8": 5,
+      "locus_9": 6,
+      "locus_10": 7
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_11",
+    "alleles": {
+      "locus_1": 11,
+      "locus_2": 12,
+      "locus_3": 1,
+      "locus_4": 2,
+      "locus_5": 3,
+      "locus_6": 4,
+      "locus_7": 5,
+      "locus_8": 6,
+      "locus_9": 7,
+      "locus_10": 8
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_12",
+    "alleles": {
+      "locus_1": 12,
+      "locus_2": 1,
+      "locus_3": 2,
+      "locus_4": 3,
+      "locus_5": 4,
+      "locus_6": 5,
+      "locus_7": 6,
+      "locus_8": 7,
+      "locus_9": 8,
+      "locus_10": 9
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_13",
+    "alleles": {
+      "locus_1": 1,
+      "locus_2": 3,
+      "locus_3": 5,
+      "locus_4": 7,
+      "locus_5": 9,
+      "locus_6": 11,
+      "locus_7": 2,
+      "locus_8": 4,
+      "locus_9": 6,
+      "locus_10": 8
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_14",
+    "alleles": {
+      "locus_1": 2,
+      "locus_2": 4,
+      "locus_3": 6,
+      "locus_4": 8,
+      "locus_5": 10,
+      "locus_6": 12,
+      "locus_7": 3,
+      "locus_8": 5,
+      "locus_9": 7,
+      "locus_10": 9
+    }
+  },
+  {
+    "sampleId": "test_cgMLST_15",
+    "alleles": {
+      "locus_1": 3,
+      "locus_2": 5,
+      "locus_3": 7,
+      "locus_4": 9,
+      "locus_5": 11,
+      "locus_6": 1,
+      "locus_7": 4,
+      "locus_8": 6,
+      "locus_9": 8,
+      "locus_10": 10
+    }
+  }
+]

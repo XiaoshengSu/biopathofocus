@@ -1,0 +1,112 @@
+[
+  {
+    "geneId": "1",
+    "geneName": "kpsM",
+    "category": "Acinetobactin",
+    "coverage": 1.0,
+    "samples": {
+      "JX070": 1, "JX071": 1, "JX072": 1, "JX073": 1, "JX074": 1,
+      "JX075": 1, "JX076": 1, "JX077": 1, "JX078": 1, "JX079": 1,
+      "JX080": 1, "JX081": 1, "JX082": 1, "JX083": 1, "JX084": 1, "JX085": 1
+    }
+  },
+  {
+    "geneId": "2",
+    "geneName": "kpsE",
+    "category": "Acinetobactin",
+    "coverage": 0.94,
+    "samples": {
+      "JX070": 1, "JX071": 1, "JX072": 1, "JX073": 1, "JX074": 1,
+      "JX075": 1, "JX076": 1, "JX077": 1, "JX078": 1, "JX079": 1,
+      "JX080": 0, "JX081": 1, "JX082": 1, "JX083": 1, "JX084": 1, "JX085": 1
+    }
+  },
+  {
+    "geneId": "3",
+    "geneName": "kpsT",
+    "category": "Acinetobactin",
+    "coverage": 1.0,
+    "samples": {
+      "JX070": 1, "JX071": 1, "JX072": 1, "JX073": 1, "JX074": 1,
+      "JX075": 1, "JX076": 1, "JX077": 1, "JX078": 1, "JX079": 1,
+      "JX080": 1, "JX081": 1, "JX082": 1, "JX083": 1, "JX084": 1, "JX085": 1
+    }
+  },
+  {
+    "geneId": "4",
+    "geneName": "kpsD",
+    "category": "Colibactin",
+    "coverage": 0.46,
+    "samples": {
+      "JX070": 1, "JX071": 0, "JX072": 1, "JX073": 0, "JX074": 1,
+      "JX075": 0, "JX076": 1, "JX077": 0, "JX078": 1, "JX079": 0,
+      "JX080": 1, "JX081": 0, "JX082": 1, "JX083": 0, "JX084": 1, "JX085": 0
+    }
+  },
+  {
+    "geneId": "5",
+    "geneName": "ibeA",
+    "category": "Acinetobactin",
+    "coverage": 1.0,
+    "samples": {
+      "JX070": 1, "JX071": 1, "JX072": 1, "JX073": 1, "JX074": 1,
+      "JX075": 1, "JX076": 1, "JX077": 1, "JX078": 1, "JX079": 1,
+      "JX080": 1, "JX081": 1, "JX082": 1, "JX083": 1, "JX084": 1, "JX085": 1
+    }
+  },
+  {
+    "geneId": "6",
+    "geneName": "ibeB",
+    "category": "Acinetobactin",
+    "coverage": 1.0,
+    "samples": {
+      "JX070": 1, "JX071": 1, "JX072": 1, "JX073": 1, "JX074": 1,
+      "JX075": 1, "JX076": 1, "JX077": 1, "JX078": 1, "JX079": 1,
+      "JX080": 1, "JX081": 1, "JX082": 1, "JX083": 1, "JX084": 1, "JX085": 1
+    }
+  },
+  {
+    "geneId": "7",
+    "geneName": "ibeC",
+    "category": "Adhesion",
+    "coverage": 0.85,
+    "samples": {
+      "JX070": 1, "JX071": 1, "JX072": 1, "JX073": 1, "JX074": 1,
+      "JX075": 1, "JX076": 1, "JX077": 0, "JX078": 1, "JX079": 1,
+      "JX080": 1, "JX081": 1, "JX082": 0, "JX083": 1, "JX084": 1, "JX085": 1
+    }
+  },
+  {
+    "geneId": "8",
+    "geneName": "ibeD",
+    "category": "Adhesion",
+    "coverage": 0.92,
+    "samples": {
+      "JX070": 1, "JX071": 1, "JX072": 1, "JX073": 1, "JX074": 1,
+      "JX075": 1, "JX076": 1, "JX077": 1, "JX078": 1, "JX079": 1,
+      "JX080": 1, "JX081": 1, "JX082": 0, "JX083": 1, "JX084": 1, "JX085": 1
+    }
+  },
+  {
+    "geneId": "9",
+    "geneName": "fimH",
+    "category": "Adhesion",
+    "coverage": 0.75,
+    "samples": {
+      "JX070": 1, "JX071": 1, "JX072": 1, "JX073": 0, "JX074": 1,
+      "JX075": 1, "JX076": 0, "JX077": 1, "JX078": 1, "JX079": 0,
+      "JX080": 1, "JX081": 1, "JX082": 1, "JX083": 0, "JX084": 1, "JX085": 1
+    }
+  },
+  {
+    "geneId": "10",
+    "geneName": "cnf1",
+    "category": "Toxin",
+    "coverage": 0.30,
+    "samples": {
+      "JX070": 1, "JX071": 0, "JX072": 0, "JX073": 0, "JX074": 1,
+      "JX075": 0, "JX076": 0, "JX077": 0, "JX078": 1, "JX079": 0,
+      "JX080": 0, "JX081": 0, "JX082": 0, "JX083": 1, "JX084": 0, "JX085": 0
+    }
+  }
+]
